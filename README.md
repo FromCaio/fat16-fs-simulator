@@ -149,4 +149,4 @@ This project is released under an academic-use license. Redistribution or commer
 
 ### 👥 Author
 
-- - [@fromcaio](https://github.com/fromcaio) 
+- [@fromcaio](https://github.com/fromcaio) 
